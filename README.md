@@ -38,9 +38,9 @@ Looking for a good read? Explore the books listed below and pick up one of these
   
 * Gitlab
 
-  * GitLab Cookbook [[Read]](/books/GitHub%20Essentials.pdf) [[Read]](/books/GitLab%20Cookbook.pdf)
+  * GitLab Cookbook [[Read]](/books/GitLab%20Cookbook.pdf)
   
-  * GitLab Repository Management [[Read]](/books/GitHub%20Essentials.pdf) [[Read]](/books/GitLab%20Repository%20Management.pdf)
+  * GitLab Repository Management [[Read]](/books/GitLab%20Repository%20Management.pdf)
   
 ### Contributing
 
