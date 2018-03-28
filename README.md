@@ -1,6 +1,6 @@
 # The best git books
 
-Welcome to Web development eBooks collections! Enjoy learning, feel free to share with your friends!
+Welcome to Git eBooks collections! Enjoy learning, feel free to share with your friends!
 
 Let star this project to keep tracking and be easy to find the project again later! Thanks!
 
